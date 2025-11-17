@@ -1,8 +1,8 @@
-streamlit
-tensorflow==2.19.0
+tensorflow-cpu==2.10.0
 numpy
-pillow
-gdown
+Pillow
+streamlit
+
 
 
 
