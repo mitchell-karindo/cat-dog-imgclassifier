@@ -1,7 +1,8 @@
-tflite-runtime
+tflite-runtime==2.14.0
 numpy
 Pillow
 streamlit
+
 
 
 
