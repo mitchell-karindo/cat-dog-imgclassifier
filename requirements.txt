@@ -1,4 +1,7 @@
-streamlit
-tensorflow
+tensorflow-cpu
 numpy
-Pillow
+pillow
+gdown
+streamlit
+
+
